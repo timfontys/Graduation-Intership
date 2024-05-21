@@ -1,0 +1,5 @@
+Nummeren met secties (denk aan 2.1 2.2)
+builduip = context en start hiermee, daarna het probleem, en daarna het doel, daarna het de plan van de opdracht
+Proof of concepts samenvoegen bij realisation
+Personal development samenvoegen in evaluation
+Design, requirements, snapshots, results van testen, technical evidences in appendix (project plan ook/reserach details ook)
